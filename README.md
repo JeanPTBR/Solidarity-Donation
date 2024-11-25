@@ -10,7 +10,7 @@
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Axios Badge](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
-This project is based on a web system designed to register charitable entities, aiming to bring visibility and donations to them. It was developed during Sprint 2 and 3 of the Compass UOL Scholarship Program - AWS Machine Learning.
+This project is based on a web system designed to register charitable entities, aiming to bring visibility and donations to them.
 
 The system adheres to the sprint objectives by utilizing technologies such as NodeJS, Docker for containerization, and AWS (Amazon Web Services) for application deployment. The selected API for system integration is ViaCEP.
 
@@ -90,7 +90,7 @@ This project uses environment variables for configuration. To set up your local 
 
 1. Clone the repository to your machine using the following terminal command:
 
-       git clone -b grupo-1 https://github.com/Compass-pb-aws-2024-JUNHO/sprints-2-3-pb-aws-junho.git
+       git clone https://github.com/JeanPTBR/Solidarity-Donation.git
 
 3. From the root directory of the application, run the following command to build the Docker image:
 
@@ -104,7 +104,7 @@ This project uses environment variables for configuration. To set up your local 
 
 1. Clone the repository using the following terminal command:
 
-       git clone -b grupo-1 https://github.com/Compass-pb-aws-2024-JUNHO/sprints-2-3-pb-aws-junho.git
+       git clone https://github.com/JeanPTBR/Solidarity-Donation.git
 
 2. Install the necessary dependencies:
 
